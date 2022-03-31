@@ -18,4 +18,5 @@ def  task2():
     for pin in dac: GPIO.output(pin, 0)
     GPIO.cleanup()
     pass
+#asdsa
 task2()
